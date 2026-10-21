@@ -80,8 +80,3 @@ window.mainloop()
 ```
 
 ###### This example creates a simple application with two functional pages that can be switched using buttons.
-
-### Contacts
-#
-###### Telegram - [@DK50503](https://t.me/DK50503)
-###### Discord - DK404#4089
